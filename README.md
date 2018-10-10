@@ -22,10 +22,19 @@
 
 **c. Upload code & a photo of your electronic circuit here.**
 
-## Putting it All Together
+[code](https://github.com/jamiekimyu/IDD-Fa18-Lab5/blob/master/code.ino)
 
-Include here:
-1. Your Arduino code.
-1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
-1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your useless box in action.
+[video](https://www.youtube.com/watch?v=CSZseinA-y4)
+
+**d. Reflection
+
+In this lab I had a variety of issues getting the servo to work:
+1. One servo burnt out because I connected the power to 9V instead of the 5V
+2. The servos sometimes worked, sometimes did not work or were delayed
+3. Servo was 'stuck' - gears wouldn't move
+4. The servo worked with the USB power but not battery power
+5. The servo didn't work when extra electronics(pentiometer, motor, resistor) were attached to it 
+
+I learned a lot about debugging issues with servos - for example to check if the servo gears were still working by gently turning it while it was unattached from the breadboard/power; to disconnect other electronics on the breadboard because it might interfere; the battery wires might cross with other wires so its good to make sure they are all separate from one another; to debug using a simpler version of the code instead of the complex one to break down and pinpoint where the problem is, etc. 
+
+Eventually I got the box to work, though it is with the USB power instead of the battery. 
