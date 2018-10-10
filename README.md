@@ -26,7 +26,7 @@
 
 [video](https://www.youtube.com/watch?v=CSZseinA-y4)
 
-**d. Reflection. **
+**d. Reflection.**
 
 In this lab I had a variety of issues getting the servo to work:
 1. One servo burnt out because I connected the power to 9V instead of the 5V
