@@ -3,11 +3,17 @@
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
+[printed](https://github.com/jamiekimyu/IDD-Fa18-Lab5/blob/master/20181010_180223.jpg)
+
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
+[bopper](https://github.com/jamiekimyu/IDD-Fa18-Lab5/blob/master/Screen%20Shot%202018-10-10%20at%206.58.35%20PM.png)
 
 ## Laser Cutting
 
 **b. Include a photo of your box here.**
+[box](https://github.com/jamiekimyu/IDD-Fa18-Lab5/blob/master/20181010_180617.jpg)
+
+[box2](https://github.com/jamiekimyu/IDD-Fa18-Lab5/blob/master/20181010_180625.jpg)
 
 ## Electronics
 
