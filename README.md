@@ -39,4 +39,4 @@ In this lab I had a variety of issues getting the servo to work:
 
 I learned a lot about debugging issues with servos - for example to check if the servo gears were still working by gently turning it while it was unattached from the breadboard/power; to disconnect other electronics on the breadboard because it might interfere; the battery wires might cross with other wires so its good to make sure they are all separate from one another; to debug using a simpler version of the code instead of the complex one to break down and pinpoint where the problem is, etc. 
 
-Eventually I got the box to work, though it is with the USB power instead of the battery. 
+Eventually I got the box to (somewhat) work, though it is with the USB power instead of the battery. 
