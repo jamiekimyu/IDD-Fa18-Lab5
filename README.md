@@ -1,5 +1,7 @@
 # Useless Box
 
+Lab by Jamie Yu, jky32
+
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
